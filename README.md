@@ -6,7 +6,7 @@
 - Ashish
 - Hariom
 
-**Tech Stack**
-i. HTML
-ii. CSS
-iii. JS
+*Tech Stack*
+1. HTML
+2. CSS
+3. JS
